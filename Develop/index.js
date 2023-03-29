@@ -19,7 +19,7 @@ const questions = [
 const fsPromises = fs.promises;
 
 const writeToFile = (fileName, data) => {
-    //console.log(generator(data));
+    console.log(generator(data));
     fsPromises.writeFile(fileName, generator(data));
 }
 
