@@ -1,4 +1,4 @@
-# <ReadMe Generator>
+# <Write-ReadMe-Proj>
 
 ## Description
 
@@ -13,7 +13,7 @@
 ## Usage
 Provided is a video of how to run the app.
 
-
+(https://user-images.githubusercontent.com/122936654/228402295-ce48c7bb-8343-49e8-a626-85ebc49120f4.webm)
 
 ## Credits
 I am the only contributor.
